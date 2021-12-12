@@ -63,6 +63,15 @@ nav a:hover {
     height: auto;
 }
 
+#styleLocations li {
+     display: inline-block;
+     padding: 25px;
+     color: rgb(6, 121, 42);
+     font-size: 1.6em;
+
+
+}
+
 .service {
     display: inline-block;
     background-color: white;
